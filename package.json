@@ -14,7 +14,7 @@
   "author": "juanjo96dev",
   "license": "GPL",
   "devDependencies": {
-    "@actions/core": "^2.0.3",
+    "@actions/core": "^3.0.0",
     "@actions/github": "^9.0.0",
     "rimraf": "^6.1.2"
   },
